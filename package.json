@@ -1,0 +1,21 @@
+{
+    "name": "gelap",
+    "displayName": "Gelap",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gelap",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gelap-color-theme.json"
+            }
+        ]
+    }
+}
