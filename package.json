@@ -1,7 +1,7 @@
 {
     "name": "gelap",
     "displayName": "Gelap",
-    "description": "",
+    "description": "A modified one dark pro theme. The contrast-blueish color will make you feel calm while energetic in the same time",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.50.0"
@@ -9,6 +9,22 @@
     "categories": [
         "Themes"
     ],
+    "author": {
+        "name": "Ryan Adhi"
+    },
+    "publisher": "RyanAdhi",
+    "license": "MIT",
+    "homepage": "https://github.com/ryanadhi/gelap",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ryanadhi/gelap"
+      },
+    "keywords": [
+        "VS Code Theme",
+        "VS Code One Dark Pro",
+        "Gelap"
+    ],
+    "icon": "black-lightbulb.png",
     "contributes": {
         "themes": [
             {

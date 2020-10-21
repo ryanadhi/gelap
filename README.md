@@ -1,5 +1,4 @@
 # README
-## This is the README for your extension "gelap"
 
 This is Gelap, a theme extension for VSCode.
 
