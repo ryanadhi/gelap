@@ -18,11 +18,13 @@
 <br/>
 
 
+<div align="left"><h3>Considering to support me?</h3></div>
+<br/>
+<div align="left"><h4>Become a Patron and help me grow: <a href="https://www.patreon.com/ryanadhi">https://www.patreon.com/ryanadhi</a></h4></div>
+<div align="left"><h4>If you are Indonesian, you can Trakteer me at  <a href="https://trakteer.id/ryanadhi">https://trakteer.id/ryanadhi</a></h4></div>
+<br/>
+<br/>
+###
 
-
-
-
-
-Most part of JSON theme file are from **One Dark Pro** ([source](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)) with some tweaks.
-
+Most part of the JSON theme file are from **One Dark Pro** ([source](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)) with some tweaks.
 **Enjoy!**
