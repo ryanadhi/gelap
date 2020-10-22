@@ -2,7 +2,7 @@
     "name": "gelap",
     "displayName": "Gelap",
     "description": "A modified one dark pro theme. The contrast-blueish color will make you feel calm while energetic in the same time",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.50.0"
     },
