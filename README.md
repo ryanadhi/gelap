@@ -11,9 +11,9 @@
 <br/>
 <div align="center"><h3>Screenshot</h1></div>
 <br/>
-<div style="text-align:center"><img src="screenshot1.png" /></div>
+<p align="center"><img src="screenshot1.png" /></p>
 <br/>
-<div style="text-align:center"><img src="screenshot2.png" /></div>
+<p align="center"><img src="screenshot2.png" /></p>
 <br/>
 <br/>
 
