@@ -1,5 +1,5 @@
 # GELAP
-<div style="text-align:center"><img src="black-lightbulb-small.png" /></div>
+<p align="center"><img src="black-lightbulb-small.png" /></p>
 <div align="center"><h2>This is Gelap, a theme extension for VSCode.</h2></div>
 <br/>
 <div align="center"><h3>Simple. Dark. Tranquille</h3></div>
